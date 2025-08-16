@@ -18,6 +18,15 @@ I'm a backend engineer passionate about building scalable systems, distributed a
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20ChatGPT-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%202.5%20Pro-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%204.0%20Sonnet-111111?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen%20Coder%20CLI-FF6F00?style=flat&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro.dev-00BFA5?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor.ai-000000?style=flat&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek%20R1-FF3366?style=flat&logo=databricks&logoColor=white" />
+</p>
+<p align="center">
   <!-- Line 2: Medium colors -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white" />
